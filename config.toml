@@ -1,10 +1,78 @@
 baseURL = 'http://example.org/'
-languageCode = 'fr-fr'
 DefaultContentLanguage = "fr"
-title = 'Hugolidaires, un modèle de site'
-theme = 'beautifulhugo'
+enableEmoji = true
+enableRobotsTXT = true
+languageCode = "fr-fr"
+pygmentsCodefencesGuessSyntax = true
+pygmentsCodeFences = true
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+theme = "beautifulhugo"
+title = "Hugolidaires, un modèle de site"
+
+
+[Author]
+name = "Camille"
 
 [params]
-description = 'Un modèle de site Solidaires basé sur Hugo'
+comments = false
+commit = true
+dateFormat = "02/01/2006"
+delayDisqus = false
+description = "Un modèle de site Solidaires basé sur Hugo"
+disableMath = true
 favicon = "img/logo_solidaires_carre.svg"
+mainSections = ["posts"]
+menu_item_separator = " · "
+readingTime = false
+rss = false
+selfHosted = true
+showRelatedPosts = false
+SidebarRecentLimit = 5
+socialShare = false
 subtitle = "Modèle de site Solidaires (basé sur Hugo)"
+useHLJS = false
+wordCount = false
+
+[privacy]
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    disable = true
+  [privacy.instagram]
+    disable = true
+  [privacy.twitter]
+    disable = true
+  [privacy.vimeo]
+    disable = true
+  [privacy.youtube]
+    disable = true
+
+[[menu.main]]
+name = "Actualités"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Vos droits"
+weight = 3
+url = "/pages/vos_droits"
+
+[[menu.main]]
+name = "Notre Programme"
+weight = 5
+url = "/pages/programme"
+
+[[menu.main]]
+name = "F.A.Q."
+weight = 7
+url = "/pages/faq"
+
+[[menu.main]]
+name = "Contact"
+weight = 9
+url = "/pages/contact"
+
+
+[markup.goldmark.renderer]
+unsafe= true
