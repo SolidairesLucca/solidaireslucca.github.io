@@ -1,0 +1,10 @@
+baseURL = 'http://example.org/'
+languageCode = 'fr-fr'
+DefaultContentLanguage = "fr"
+title = 'Hugolidaires, un modèle de site'
+theme = 'beautifulhugo'
+
+[params]
+description = 'Un modèle de site Solidaires basé sur Hugo'
+favicon = "img/logo_solidaires_carre.svg"
+subtitle = "Modèle de site Solidaires (basé sur Hugo)"
