@@ -20,6 +20,7 @@ Le **congé de formation économique, sociale, environnementale et syndicale** (
 Droit des salarié·es
 ====================
 
+- [Fiches « connaître ces droits » (Solidaires Informatique)](https://solidairesinformatique.org/vos-droits/fiches-pratiques/)
 - [Fiches « connaître ces droits » (Solidaires)](https://solidaires.org/connaitre-ses-droits/fiche-droits/)
 - …
 
@@ -27,6 +28,7 @@ Droit de Grève
 ===============
 
 - [Le droit de grève (Solidaires)](https://solidaires.org/connaitre-ses-droits/fiche-droits/fiche-n-7-le-droit-de-greve/)
+- [La Grève mode d'emploi (Solidaires Informatique)](https://solidairesinformatique.org/vos-droits/droit-de-greve/)
 - [La grève, c'est cool (-;](https://greve.cool/)
 - [Est-ce que c'est la grève ?](https://nitter.fdn.fr/cestlagreve)
 - …

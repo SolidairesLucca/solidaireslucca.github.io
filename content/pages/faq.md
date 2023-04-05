@@ -6,7 +6,7 @@ draft: false
 
 Nous sommes des salarié⋅es d'<NOM_DE_L_ENTREPRISE>, souhaitant nous regrouper pour mieux être représenté.
 
-Nous sommes une section du syndicat **[<SOLIDAIRES_BRANCHE>](https://example.com/)**, membre de la [Union syndicale Solidaires](https://solidaires.org/).
+Nous sommes une section du syndicat **[Solidaires Informatique](https://solidairesinformatique.org/)**, membre de la [Union syndicale Solidaires](https://solidaires.org/).
 
 ---
 
