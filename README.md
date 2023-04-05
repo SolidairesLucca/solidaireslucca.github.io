@@ -1,7 +1,9 @@
 `hugolidaires`
 =============
 
-Un modèle de site internet pour les sections de l'[Union syndicale Solidaires](https://solidaires.org/) (basé sur [Hugo](https://gohugo.io/)).
+Un modèle de site internet pour les sections [Solidaires Informatique](https://solidairesinformatique.org/) (basé sur [Hugo](https://gohugo.io/)).
+
+Ce modèle dérive de la branche [`stable`](https://framagit.org/hugolidaires/site-template/-/tree/stable) qui contient le modèle de base, pour les sections de l'[Union syndicale Solidaires](https://solidaires.org/).
 
 
 Pourquoi ❔
