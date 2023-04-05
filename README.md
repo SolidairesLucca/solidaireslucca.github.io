@@ -3,6 +3,10 @@
 
 Un modèle de site internet pour les sections de l'[Union syndicale Solidaires](https://solidaires.org/) (basé sur [Hugo](https://gohugo.io/)).
 
+Une version dérivé pour les sections [Solidaires Informatique](https://solidairesinformatique.org/) est disponible dans la branche [`sol_info`](https://framagit.org/hugolidaires/site-template/-/tree/sodl_info)
+
+Si besoin d’une version pour une nouvelle branche Solidaires, vous pouvez lui créer une branche dédiée et le préciser ici.
+
 
 Pourquoi ❔
 ----------
