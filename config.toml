@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = "https://hugolidaires.frama.io/site-template/"
 DefaultContentLanguage = "fr"
 enableEmoji = true
 enableRobotsTXT = true
@@ -25,7 +25,7 @@ favicon = "img/logo_solidaires_carre.svg"
 mainSections = ["posts"]
 menu_item_separator = " · "
 readingTime = false
-rss = false
+rss = true
 selfHosted = true
 showRelatedPosts = false
 SidebarRecentLimit = 5
