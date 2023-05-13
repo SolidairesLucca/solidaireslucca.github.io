@@ -41,7 +41,7 @@ Vous pouvez passer ensuite à la personnalisation du contenu existant et créer 
 
 * Le contenu à personnaliser
     1. [`README.md`](https://framagit.org/hugolidaires/site-template/-/tree/stable/README.md)
-    1. [`content/pages`](https://framagit.org/hugolidaires/site-template/-/tree/stable/content/pages)
+    1. [`content/page`](https://framagit.org/hugolidaires/site-template/-/tree/stable/content/page)
     1. Et il restera à supprimer la publication en exemple: [`content/posts`](https://framagit.org/hugolidaires/site-template/-/tree/stable/content/posts)
 * [Créer du contenu](https://gohugo.io/getting-started/quick-start/#add-content)
     1. générer le fichier vide: `hugo new posts/premiere-publication.md`
