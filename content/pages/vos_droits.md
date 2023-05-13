@@ -8,9 +8,7 @@ draft: false
 Droit à la formation
 ====================
 
-L'union s'est dotée d'un organisme de formation syndical, le CEFI. Au titre du CFESS, tous les salarié.es ont droit à une formation (12 jours par an), payée par <NOM_DE_L_ENTREPRISE>.
-
-Le **congé de formation économique, sociale, environnementale et syndicale** (CFESES) est un droit à la formation : il donne droit à 12 jours de formation par an, salaire maintenu par . Solidaires prend en charge les frais de participation pour ses adhérent·es.
+L'union s'est dotée d'un organisme de formation syndical, le CEFI. Au titre du CFESES, tous les salarié.es ont droit à une formation (12 jours par an), payée par l'employeur.
 
 - [Le CFESES (service-public.fr)](https://www.service-public.fr/particuliers/vosdroits/F2320)
 - [Se former avec le CEFI (Solidaires)](https://solidaires.org/se-former/)
@@ -20,8 +18,8 @@ Le **congé de formation économique, sociale, environnementale et syndicale** (
 Droit des salarié·es
 ====================
 
-- [Fiches « connaître ces droits » (Solidaires)](https://solidaires.org/connaitre-ses-droits/fiche-droits/)
-- …
+- [Fiches « connaître ses droits » (Solidaires)](https://solidaires.org/connaitre-ses-droits/fiche-droits/)
+
 
 Droit de Grève
 ===============
