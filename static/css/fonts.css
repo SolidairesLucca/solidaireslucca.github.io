@@ -1,0 +1,11 @@
+/* --- Fonts --- */
+
+@font-face {
+    font-family: 'Scotchlidaires';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Scotchlidaires'),
+        url('../fonts/scotchlidaires-2-2.woff2') format('woff2'), /* Super Modern Browsers */
+        url('../fonts/scotchlidaires-2-2.woff') format('woff'), /* Modern Browsers */
+        url('../fonts/scotchlidaires-2-2.ttf') format('truetype');
+}
