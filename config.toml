@@ -1,4 +1,4 @@
-baseURL = "https://hugolidaires.frama.io/site-template/"
+baseURL = "https://solidaireslucca.org/"
 DefaultContentLanguage = "fr"
 enableEmoji = true
 enableRobotsTXT = true
@@ -8,18 +8,18 @@ pygmentsCodeFences = true
 pygmentsStyle = "trac"
 pygmentsUseClasses = true
 theme = "beautifulhugo"
-title = "Hugolidaires, un modèle de site"
+title = "Solidaires Lucca"
 
 
 [Author]
-name = "Camille"
+name = "Thomas Plaçais"
 
 [params]
 comments = false
 commit = true
 dateFormat = "02/01/2006"
 delayDisqus = false
-description = "Un modèle de site Solidaires basé sur Hugo"
+description = "Site de la section syndicale Solidaires de Lucca"
 disableMath = true
 favicon = "img/logo_solidaires_carre.svg"
 mainSections = ["posts"]
@@ -30,7 +30,7 @@ selfHosted = true
 showRelatedPosts = false
 SidebarRecentLimit = 5
 socialShare = false
-subtitle = "Modèle de site Solidaires (basé sur Hugo)"
+subtitle = "Section syndicale Solidaires de Lucca"
 useHLJS = false
 wordCount = false
 
