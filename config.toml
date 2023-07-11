@@ -47,31 +47,5 @@ hideAuthor = true
   [privacy.youtube]
     disable = true
 
-[[menu.main]]
-name = "Actualités"
-url = "/"
-weight = 1
-
-[[menu.main]]
-name = "Vos droits"
-weight = 3
-url = "/pages/vos_droits"
-
-[[menu.main]]
-name = "Notre Programme"
-weight = 5
-url = "/pages/programme"
-
-[[menu.main]]
-name = "F.A.Q."
-weight = 7
-url = "/pages/faq"
-
-[[menu.main]]
-name = "Contact"
-weight = 9
-url = "/pages/contact"
-
-
 [markup.goldmark.renderer]
 unsafe= true
