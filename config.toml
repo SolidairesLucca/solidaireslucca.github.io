@@ -51,6 +51,11 @@ hideAuthor = true
 unsafe= true
 
 [[menu.main]]
+name = "Le syndicat"
+url = "posts/syndicat"
+weight = 1
+
+[[menu.main]]
 name = "Nous contacter"
 url = "page/contact"
 weight = 1
