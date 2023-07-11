@@ -49,3 +49,8 @@ hideAuthor = true
 
 [markup.goldmark.renderer]
 unsafe= true
+
+[[menu.main]]
+name = "Nous contacter"
+url = "page/contact"
+weight = 1
