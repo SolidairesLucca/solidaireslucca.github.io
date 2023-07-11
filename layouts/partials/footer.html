@@ -33,18 +33,6 @@
       </li>
       {{ end }}
     </ul>
-    <p class="credits copyright text-muted">
-
-      &nbsp;&copy;
-      {{ if .Site.Params.since }}
-        {{ .Site.Params.since }} - {{ .Site.LastChange.Format "2006" }}
-      {{ else }}
-        {{ .Site.LastChange.Format "2006" }}
-      {{ end }}
-
-      &nbsp;&bull;&nbsp;<a href="https://solidaires.org/" title="Union Syndicale Solidaires">Solidaires</a>
-      &nbsp;&bull;&nbsp;<a href={{ absURL "page/legal" }} title="Mentions légales">Mentions légales</a>
-    </p>
     <!-- Please don't remove this, keep my open source work credited :) -->
     <p class="credits theme-by text-muted">
       {{ i18n "poweredBy" . | safeHTML }}
