@@ -24,7 +24,7 @@ Nous faisons partie de [**Solidaires Informatique**](https://solidairesinformati
 Notre section syndicale a différents objectifs :
  - Fournir des ressources informatives aux salariés sur leurs droits
  - Faire respecter nos droits
- - Porter des revendications collectives auprès de la direction
+ - Construire et porter des revendications collectives auprès de la direction
 
 ## Quelle différence avec le <abbr title="Comité Social et Économique">CSE</abbr> ?
 
