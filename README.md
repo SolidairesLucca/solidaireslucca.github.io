@@ -13,7 +13,7 @@ Si besoin d'une version pour une nouvelle branche Solidaires, vous pouvez lui cr
 Pourquoi ❔
 ----------
 
-Ce modèle permet de démarrer un site internet [facilement hébergeable/maintenable et léger](https://fr.wikipedia.org/wiki/G%C3%A9n%C3%A9rateur_de_site_statique) avec une mise en page [aux couleurs Solidaires](https://solidaires.org/sinformer-et-agir/brochures/brochures-et-argumentaires-interpro/) et sa [magnifique typographie](https://ancien.solidaires.org/Police-de-caracteres-logo-Solidaires).
+Ce modèle permet de démarrer un site internet [facilement hébergeable/maintenable et léger](https://fr.wikipedia.org/wiki/G%C3%A9n%C3%A9rateur_de_site_statique) avec une mise en page [aux couleurs Solidaires](https://solidaires.org/sinformer-et-agir/brochures/brochures-et-argumentaires-interpro/) et sa [magnifique typographie][scotchlidaires].
 
 Par ce que les luttes syndicales sont notre raison d'être, maintenir un site internet doit nous prendre le mois de temps possible : fédérer le travail autour de celui-ci est précieux.
 
@@ -66,3 +66,6 @@ Remerciement 🤝
 ---------------
 
 Ce projet est avant tout une _conversion en modèle_ et une documentation du travail réalisé par la section syndicale d'entreprise _[Solidaires OCTO](https://solidaires-octo.com/)_, qu'iels en soient _Solidairement remerciés_ !
+
+
+[scotchlidaires]: https://solidaires.org/Police-de-caracteres-logo-Solidaires/

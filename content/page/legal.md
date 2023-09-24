@@ -18,7 +18,7 @@ En vertu de l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance
 - **Hébergeur** : `<HEBERGEUR>`
 - **Crédits** :
     - _Le site_ est généré avec [Hugo](http://gohugo.io/)
-    - la police (qui se tient sage) de caractère est celle de l'union syndicale Solidaires : [`Scotchlidaires`](https://ancien.solidaires.org/Police-de-caracteres-logo-Solidaires)
+    - la police (qui se tient sage) de caractère est celle de l'union syndicale Solidaires : [`Scotchlidaires`][scotchlidaires]
 
 
 Conditions générales d'utilisation _du site_
@@ -97,3 +97,6 @@ Loi n° 78-17 du 6 janvier 1978, notamment modifiée par la loi n° 2004-801 du 
 Loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique.
 
 Et si vous avez tous lu : bravo, c'est quand même bien pénible…
+
+
+[scotchlidaires]: https://solidaires.org/Police-de-caracteres-logo-Solidaires/
