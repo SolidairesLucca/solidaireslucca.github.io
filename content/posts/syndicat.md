@@ -1,6 +1,6 @@
 ---
 title: "La section syndicale Solidaires Lucca"
-date: 2023-09-11T09:00:00+02:00
+date: 2023-10-12T09:00:00+02:00
 ---
 
 ## Qui sommes-nous ?
