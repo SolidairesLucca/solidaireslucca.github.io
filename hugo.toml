@@ -35,18 +35,18 @@ useHLJS = false
 wordCount = false
 
 [privacy]
-  [privacy.disqus]
-    disable = true
-  [privacy.googleAnalytics]
-    disable = true
-  [privacy.instagram]
-    disable = true
-  [privacy.twitter]
-    disable = true
-  [privacy.vimeo]
-    disable = true
-  [privacy.youtube]
-    disable = true
+[privacy.disqus]
+disable = true
+[privacy.googleAnalytics]
+disable = true
+[privacy.instagram]
+disable = true
+[privacy.twitter]
+disable = true
+[privacy.vimeo]
+disable = true
+[privacy.youtube]
+disable = true
 
 [[menu.main]]
 name = "Actualités"
@@ -75,4 +75,4 @@ url = "page/contact"
 
 
 [markup.goldmark.renderer]
-unsafe= true
+unsafe = true
