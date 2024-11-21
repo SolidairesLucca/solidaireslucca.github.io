@@ -1,6 +1,5 @@
 ---
 title: "Nous contacter"
-date: "{{ .Date }}"
 draft: false
 ---
 
