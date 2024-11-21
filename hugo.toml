@@ -11,9 +11,6 @@ theme = "beautifulhugo"
 title = "Hugolidaires, un modèle de site"
 
 
-[Author]
-name = "Camille"
-
 [params]
 comments = false
 commit = true
@@ -33,6 +30,8 @@ socialShare = false
 subtitle = "Modèle de site Solidaires (basé sur Hugo)"
 useHLJS = false
 wordCount = false
+    [params.author]
+    name = "Camille"
 
 [privacy]
 [privacy.disqus]
