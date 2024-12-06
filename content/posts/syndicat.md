@@ -46,6 +46,6 @@ Les prises de contact des salariés sont d’abord reçues par le <abbr title="R
 
 Si vous vous reconnaissez dans nos valeurs, et qu'avec nous, vous voulez défendre vos droits, vous pouvez adhérer à notre section syndicale.
 
-Vous pouvez adhérer directement via [le bulletin Solidaires Informatique](https://solidairesinformatique.org/wp-content/uploads/2023/07/BulletinAdhesion.pdf). Autrement, si vous avez des questions ou voulez de l'accompagnement, vous pouvez également [nous contacter](/page/contact).
+Vous pouvez adhérer directement via [le bulletin Solidaires Informatique](https://adhesion.solidairesinformatique.org?SIRET=44163769100128). Autrement, si vous avez des questions ou voulez de l'accompagnement, vous pouvez également [nous contacter](/page/contact).
 
 ![Uni·es on est plus fort·es ! Syndique-toi !](/img/unies-on-est-plus-fortes.png)
