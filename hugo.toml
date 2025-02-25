@@ -30,26 +30,24 @@ socialShare = false
 subtitle = "Modèle de site Solidaires (basé sur Hugo)"
 useHLJS = false
 wordCount = false
-    [params.author]
-    name = "Camille"
 
   [params.author]
-  name = "Camille"
+    name = "Camille"
 
 
 [privacy]
-[privacy.disqus]
-disable = true
-[privacy.googleAnalytics]
-disable = true
-[privacy.instagram]
-disable = true
-[privacy.twitter]
-disable = true
-[privacy.vimeo]
-disable = true
-[privacy.youtube]
-disable = true
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    disable = true
+  [privacy.instagram]
+    disable = true
+  [privacy.twitter]
+    disable = true
+  [privacy.vimeo]
+    disable = true
+  [privacy.youtube]
+    disable = true
 
 [[menu.main]]
 name = "Actualités"
