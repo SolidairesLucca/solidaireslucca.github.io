@@ -1,6 +1,5 @@
 ---
 title: "Notre Programme"
-date: "{{ .Date }}"
 draft: false
 ---
 
