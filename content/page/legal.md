@@ -1,6 +1,5 @@
 ---
 title: "Mentions légales"
-date: "{{ .Date }}"
 draft: false
 ---
 

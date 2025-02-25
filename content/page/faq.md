@@ -1,6 +1,5 @@
 ---
 title: "Foire au questions"
-date: "{{ .Date }}"
 draft: false
 ---
 
