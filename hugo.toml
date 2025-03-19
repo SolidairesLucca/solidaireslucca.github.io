@@ -10,9 +10,6 @@ pygmentsUseClasses = true
 theme = "beautifulhugo"
 title = "Solidaires Lucca"
 
-[Author]
-name = "Thomas Plaçais"
-
 [params]
 comments = false
 commit = true
@@ -33,6 +30,10 @@ useHLJS = false
 wordCount = false
 hideAuthor = true
 
+  [params.author]
+    name = "Thomas Plaçais"
+
+
 [privacy]
   [privacy.disqus]
     disable = true
@@ -52,7 +53,7 @@ unsafe= true
 
 [[menu.main]]
 name = "Le syndicat"
-url = "posts/syndicat"
+url = "/posts/syndicat"
 weight = 1
 
 [[menu.main]]
