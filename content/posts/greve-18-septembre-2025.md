@@ -13,3 +13,5 @@ En cette journée de mobilisation nationale du 18 septembre, nous tenions à te 
 Perturber la production, c’est exercer une pression sur le patronat qui bénéficie directement de la politique de notre gouvernement, et reste passif face aux mesures destructrices qu’il met en place.
 
 Ne te laisse pas culpabiliser. La grève est certes nationale, mais toute entreprise, Lucca compris, a le pouvoir d’agir contre la dégradation de nos conditions de travail et de vie. Les patrons n’attendent pas pour se syndiquer.
+
+Source : https://www.service-public.fr/particuliers/vosdroits/F117
