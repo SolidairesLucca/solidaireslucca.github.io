@@ -37,9 +37,9 @@ Lucca a depuis choisi le status quo, considérant le risque juridique trop faibl
 > 
 > [*Simuler son nombre de RTT selon son temps de travail*](https://www.coover.fr/outils/calcul-rtt)
 
-La section Solidaires Lucca souhaite que la direction agisse en bonne intelligence, et trouve la volonté de régulariser de manière juste la situation des salarié·es les moins bien payés.
+La section Solidaires Informatique Lucca souhaite que la direction agisse en bonne intelligence, et trouve la volonté de régulariser de manière juste la situation des salarié·es les moins bien payés.
 
-**Solidaires Lucca propose :**
+**Solidaires Informatique Lucca propose :**
 
  - Une baisse du temps de travail à 37h, avec majoration légale de 12 RTT
 

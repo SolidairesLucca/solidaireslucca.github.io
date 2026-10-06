@@ -1,5 +1,5 @@
 ---
-title: "La section syndicale Solidaires Lucca"
+title: "La section syndicale Solidaires Informatique Lucca"
 date: 2023-10-12T09:00:00+02:00
 ---
 
@@ -7,7 +7,7 @@ date: 2023-10-12T09:00:00+02:00
 
 Nous sommes des salariés de Lucca, qui avons décidé de se regrouper pour défendre nos intérêts.
 
-Nous avons choisi de nous rassembler au travers d’une section syndicale **Solidaires Lucca**, affiliée au syndicat **Solidaires Informatique**.
+Nous avons choisi de nous rassembler au travers d’une section syndicale **Solidaires Informatique Lucca**, affiliée au syndicat **Solidaires Informatique**.
 
 <!--more-->
 

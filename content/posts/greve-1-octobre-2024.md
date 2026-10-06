@@ -11,7 +11,7 @@ Parmi les travailleurs, les revendications sont claires, à l'opposé de l'aust�
  - L'abrogation de la réforme des retraites
  - Le redéveloppement des services publics (santé, éducation, etc.) détruits par les mesures politiques des dernières années
 
-**Solidaires Lucca appelle le 1er octobre à se joindre à la grève et aux manifestations**, dans l'unité avec l'Union Syndicale Solidaires [^appel SUD] et la CGT [^appel CGT]. Nous appelons à vous mobiliser dans vos manifestations locales, parmi lesquelles :
+**Solidaires Informatique Lucca appelle le 1er octobre à se joindre à la grève et aux manifestations**, dans l'unité avec l'Union Syndicale Solidaires [^appel SUD] et la CGT [^appel CGT]. Nous appelons à vous mobiliser dans vos manifestations locales, parmi lesquelles :
 
  - Paris : 14h Place Denfert Rochereau
  - Nantes : 10h30 à la Préfecture

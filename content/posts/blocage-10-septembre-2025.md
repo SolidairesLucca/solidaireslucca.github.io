@@ -5,7 +5,7 @@ date: 2025-09-08T09:00:00+02:00
 
 # Pourquoi se mobiliser?
 
-Les annonces du gouvernement de Bayrou nous ont montré que les travailleur·euses et les plus précaires seront sacrifié·es par ce plan d’austérité. Nous continuons de payer le prix des choix gouvernementaux bénéficiant aux plus privilégié·es. La section Solidaires Lucca a décidé de participer à la construction d’un mouvement social plus juste et équitable, avec comme point de départ le 10 septembre.
+Les annonces du gouvernement de Bayrou nous ont montré que les travailleur·euses et les plus précaires seront sacrifié·es par ce plan d’austérité. Nous continuons de payer le prix des choix gouvernementaux bénéficiant aux plus privilégié·es. La section Solidaires Informatique Lucca a décidé de participer à la construction d’un mouvement social plus juste et équitable, avec comme point de départ le 10 septembre.
 
 # Droit à la grève
 
@@ -19,7 +19,7 @@ Tous·tes les travailleurs·euses (salariés·es y compris alternant·es) ont le
 
 # Nos revendications
 
-Le syndicat Solidaires Informatique appelle à la grève dès le mercredi 10 septembre 2025 pour lutter contre le projet de budget du gouvernement Bayrou. La section Solidaires Lucca soutient cet appel et se positionne :
+Le syndicat Solidaires Informatique appelle à la grève dès le mercredi 10 septembre 2025 pour lutter contre le projet de budget du gouvernement Bayrou. La section Solidaires Informatique Lucca soutient cet appel et se positionne :
 - Contre la casse des acquis sociaux, de la sécu (ALD et AMD) et du chômage, de
 l’austérité prévue, de la fin de la retraite à 60 ans et des régimes spéciaux ;
 - Contre le génocide en Palestine et la course à l’armement ;

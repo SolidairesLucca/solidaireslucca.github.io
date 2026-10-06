@@ -8,7 +8,7 @@ pygmentsCodeFences = true
 pygmentsStyle = "trac"
 pygmentsUseClasses = true
 theme = "beautifulhugo"
-title = "Solidaires Lucca"
+title = "Solidaires Informatique Lucca"
 
 [params]
 comments = false
