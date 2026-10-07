@@ -1,1 +1,1 @@
-# Solidaires Lucca
+# Solidaires Informatique Lucca

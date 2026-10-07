@@ -55,10 +55,10 @@ Cette absence de prise en charge fait peser directement sur les salarié.es le c
 
 “Vous aussi, vous avez l’impression de courir après le temps ? Une nouvelle urgence avant d’avoir terminé la précédente. Un travail presque achevé qu’il faut reprendre parce que les directives ont changé. Des réunions, des messages et des interruptions qui continuent de s’accumuler…”
 
-Lire l’article complet :
-« Je crois que je ne suis pas seul.e » - reconnaître un problème collectif d’organisation du travail.
+[Lire l’article complet :
+« Je crois que je ne suis pas seul.e » - reconnaître un problème collectif d’organisation du travail.](/posts/impression-de-courrir-apres-le-temps/)
 
 
 # News CSE - Compte rendu des réunions du 27 août et du 8 septembre
 
-La section essaiera de partager avec vous sur notre site web des comptes rendus réguliers des réunions du CSE et des prises de position de ses élu·e·s Solidaires Informatique. [Vous pouvez trouver le lien vers notre tout premier compte rendu](http://localhost:1313/posts/reunion-cse-27-aout-2026/). N’hésitez pas à nous faire part de vos questions et retours.
+La section essaiera de partager avec vous sur notre site web des comptes rendus réguliers des réunions du CSE et des prises de position de ses élu·e·s Solidaires Informatique. [Vous pouvez trouver le lien vers notre tout premier compte rendu](/posts/reunion-cse-27-aout-2026/). N’hésitez pas à nous faire part de vos questions et retours.
